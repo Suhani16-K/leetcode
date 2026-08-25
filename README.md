@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Suhani16-K/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Suhani16-K/leetcode/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Suhani16-K/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
