@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Suhani16-K/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Suhani16-K/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Suhani16-K/leetcode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Suhani16-K/leetcode/tree/master/0461-hamming-distance) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suhani16-K/leetcode/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/Suhani16-K/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Suhani16-K/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suhani16-K/leetcode/tree/master/0013-roman-to-integer) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Suhani16-K/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
