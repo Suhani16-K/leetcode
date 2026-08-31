@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suhani16-K/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Suhani16-K/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Suhani16-K/leetcode/tree/master/0389-find-the-difference) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Suhani16-K/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Pigeonhole Principle
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Suhani16-K/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Suhani16-K/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Suhani16-K/leetcode/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/Suhani16-K/leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Suhani16-K/leetcode/tree/master/0461-hamming-distance) |
 ## Math
 |  |
@@ -42,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Suhani16-K/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Suhani16-K/leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suhani16-K/leetcode/tree/master/0013-roman-to-integer) |
+| [0389-find-the-difference](https://github.com/Suhani16-K/leetcode/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
