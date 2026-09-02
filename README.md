@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Suhani16-K/leetcode/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/Suhani16-K/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Suhani16-K/leetcode/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Suhani16-K/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Suhani16-K/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Suhani16-K/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Suhani16-K/leetcode/tree/master/0389-find-the-difference) |
 ## String
@@ -77,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Suhani16-K/leetcode/tree/master/0051-n-queens) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Suhani16-K/leetcode/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Suhani16-K/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Suhani16-K/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
