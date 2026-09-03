@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Suhani16-K/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Suhani16-K/leetcode/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Suhani16-K/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Suhani16-K/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Suhani16-K/leetcode/tree/master/0075-sort-colors) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Suhani16-K/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Quicksort
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Suhani16-K/leetcode/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Suhani16-K/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
