@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Suhani16-K/leetcode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Suhani16-K/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Suhani16-K/leetcode/tree/master/0268-missing-number) |
+| [0643-maximum-average-subarray-i](https://github.com/Suhani16-K/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Suhani16-K/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Suhani16-K/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Suhani16-K/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Suhani16-K/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
