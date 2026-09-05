@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Suhani16-K/leetcode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Suhani16-K/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Suhani16-K/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Suhani16-K/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Suhani16-K/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
@@ -102,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Suhani16-K/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Suhani16-K/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
