@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Suhani16-K/leetcode/tree/master/0062-unique-paths) |
 | [0338-counting-bits](https://github.com/Suhani16-K/leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Suhani16-K/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Suhani16-K/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suhani16-K/leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Suhani16-K/leetcode/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Suhani16-K/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Suhani16-K/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Suhani16-K/leetcode/tree/master/0509-fibonacci-number) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Suhani16-K/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Suhani16-K/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
