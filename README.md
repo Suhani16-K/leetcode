@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Suhani16-K/leetcode/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/Suhani16-K/leetcode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Suhani16-K/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Suhani16-K/leetcode/tree/master/0268-missing-number) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Suhani16-K/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Suhani16-K/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Suhani16-K/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Suhani16-K/leetcode/tree/master/0389-find-the-difference) |
