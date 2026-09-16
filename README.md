@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suhani16-K/leetcode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Suhani16-K/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suhani16-K/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/Suhani16-K/leetcode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Suhani16-K/leetcode/tree/master/0075-sort-colors) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Suhani16-K/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Suhani16-K/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Suhani16-K/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Suhani16-K/leetcode/tree/master/0389-find-the-difference) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Suhani16-K/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suhani16-K/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Suhani16-K/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Suhani16-K/leetcode/tree/master/0283-move-zeroes) |
