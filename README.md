@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Suhani16-K/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Suhani16-K/leetcode/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/Suhani16-K/leetcode/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/Suhani16-K/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Suhani16-K/leetcode/tree/master/0389-find-the-difference) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Suhani16-K/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suhani16-K/leetcode/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/Suhani16-K/leetcode/tree/master/0076-minimum-window-substring) |
 | [0389-find-the-difference](https://github.com/Suhani16-K/leetcode/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Suhani16-K/leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Suhani16-K/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Suhani16-K/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/Suhani16-K/leetcode/tree/master/1052-grumpy-bookstore-owner) |
