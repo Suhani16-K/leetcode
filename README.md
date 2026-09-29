@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suhani16-K/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/Suhani16-K/leetcode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Suhani16-K/leetcode/tree/master/0075-sort-colors) |
+| [0239-sliding-window-maximum](https://github.com/Suhani16-K/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Suhani16-K/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Suhani16-K/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Suhani16-K/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Suhani16-K/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Suhani16-K/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/Suhani16-K/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Suhani16-K/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -129,4 +131,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Suhani16-K/leetcode/tree/master/0062-unique-paths) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Suhani16-K/leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Suhani16-K/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Suhani16-K/leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Suhani16-K/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
