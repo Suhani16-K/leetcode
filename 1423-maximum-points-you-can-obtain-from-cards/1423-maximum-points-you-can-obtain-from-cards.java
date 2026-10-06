@@ -1,15 +1,18 @@
 class Solution {
     public int maxScore(int[] a, int k) {
         int n=a.length;
-        int sum=0;
-        for(int i=0;i<k;i++){
+        int sum=0; int t=0;
+        for(int i=0;i<n;i++){
+            t+=a[i];
+        }
+        for(int i=0;i<n-k;i++){
             sum+=a[i];
         }
-        int ans=sum;
-        for(int i=0;i<k;i++){
-            sum=sum-a[k-1-i]+a[n-1-i];
-            ans=Math.max(sum,ans);
+        int min=sum;
+        for(int i=n-k;i<n;i++){
+            sum=sum+a[i]-a[i-(n-k)];
+            min=Math.min(sum,min);
         }
-        return ans;
+        return t-min;
     }
 }
